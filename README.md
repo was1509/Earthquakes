@@ -5,12 +5,12 @@ iOS application that provides live data of Earthquakes and allows the user to do
 - XCode
 - SFSymbols
 
-## Running ContentView.swift
-- To run ContentView.swift, preferred XCode version: XCode 13.0+
+## Running Quake.swift
+- To run Quake.swift, preferred XCode version: XCode 13.0+
 
 ## Data
 ### Files
-- ContentView.swift : Main running script.
+- Quake.swift : Main running script.
 - EarthquakesTest.swift : Performs unit testing.
 - MapScreen.swift : Shows user location and route to their destination.
 
