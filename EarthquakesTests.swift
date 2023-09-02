@@ -1,4 +1,9 @@
-// Unit Tests for the Earthquakes app
+/*
+ See LICENSE folder for this sample’s licensing information.
+
+ Abstract:
+ Unit Tests for the Earthquakes app
+ */
 
 import XCTest
 @testable import Earthquakes
