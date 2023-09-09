@@ -12,3 +12,12 @@ iOS application that provides live data of Earthquakes and allows the user to do
 
 ### Privacy
 - Updated info.plist for asking permission when using user's current location.
+
+## Application functionality overview.
+### Please view the video presentation below for a comprehensive demonstration of the application's functionality.
+
+https://github.com/was1509/Earthquakes/assets/89352625/d19d4b5a-edee-465b-9a94-a1695eff002e
+
+
+
+
