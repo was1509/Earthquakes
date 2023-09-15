@@ -3,6 +3,8 @@ iOS application that provides live data of Earthquakes and allows the user to do
 
 ## Running Quake.swift
 - To run Quake.swift, preferred XCode version: XCode 13.0+
+## Reference
+- https://developer.apple.com/tutorials/swiftui
 
 ## Data
 ### Files
