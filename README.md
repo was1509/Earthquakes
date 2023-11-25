@@ -1,5 +1,5 @@
 # Earthquakes
-iOS application that provides live data of Earthquakes and allows the user to donate either by travelling to the location or sending money through Apple Pay
+iOS application that provides live data of Earthquakes and allows the user to donate either by travelling to the location or sending money through Apple Pay.
 
 ## Running Quake.swift
 - To run Quake.swift, preferred XCode version: XCode 13.0+
